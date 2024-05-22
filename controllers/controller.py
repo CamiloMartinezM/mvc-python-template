@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# Copyright © 2023 CamiloMartinezM
-# Licensed under the terms of the MIT License
-#
 # File: controllers/mycontroller.py
 # Description: This file defines the MyController class, which controls the 
 # flow of the application.
